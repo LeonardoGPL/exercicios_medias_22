@@ -12,4 +12,4 @@ mostrar a media e aprovado
 Fim Enquanto
 Fim Enquanto
 
-[Diagrama em branco.pdf](https://github.com/LeonardoGPL/exercicios_medias_22/files/8558895/Diagrama.em.branco.pdf)
+![Diagrama em branco-1](https://user-images.githubusercontent.com/103473067/165201106-ef841d81-028f-4238-8d49-5fec10d3dbad.png)
