@@ -22,7 +22,7 @@ public class aulap {
 		float m = (ac1 * ac1n) + (ac2 * ac2n) + (pg * pgn) + (af * afn);
 		// encerando a classe
 		batman.close();
-		// criando condição
+		// criando condiÃ§Ã£o
 		if (m >= 5) {
 			System.out.printf("\nSua media e %f, voce esta aprovado", m);
 		} else {
