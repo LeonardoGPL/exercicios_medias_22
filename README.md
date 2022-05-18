@@ -1,4 +1,4 @@
-# exercicios_medias_22
+# exercicios_medias_250422
 Exercício para calcular a media aritmética dos alunos, em 4 tipos de provas
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO 
